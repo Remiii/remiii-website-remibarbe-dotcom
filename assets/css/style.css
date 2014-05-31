@@ -308,7 +308,7 @@ ul.fullwidth-slider, ul.fullwidth-slider .caption-inside {
 }
 
 .video-section .video-overlay {
-    background: url(../img/texture_layer.png) repeat;
+    background: url(../images/texture_layer.png) repeat;
     background-color: rgba(0, 0, 0, 0.5);
     padding: 110px 0 32px;
     height: 100%; 
