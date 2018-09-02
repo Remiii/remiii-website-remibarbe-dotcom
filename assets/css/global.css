@@ -16,3 +16,7 @@
   	margin: -64px 0 0 -64px;
   	top: 50%;
 }
+
+.top-logo img {
+    border-radius: 50%;
+}
